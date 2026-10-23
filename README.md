@@ -1,16 +1,21 @@
-## Hi there 👋
+ Hi, I'm Dr. Hassan Rauf 👋
 
-<!--
-**hassanrauf507-debug/hassanrauf507-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Healthcare IT | Digital Health | Artificial Intelligence | Research
 
-Here are some ideas to get you started:
+I'm a Healthcare IT professional interested in bridging healthcare, technology, research, and artificial intelligence to develop innovative solutions for real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Areas of Interest
+- Artificial Intelligence in Healthcare
+- Digital Health & Healthcare IT
+- Healthcare Project Management
+- Clinical Research & Rehabilitation Sciences
+- Healthcare Automation & Data Analytics
+
+🚀 What I'm Working On
+- Exploring AI-powered healthcare applications
+- Developing practical digital health solutions
+- Building interdisciplinary research and technology projects
+- Learning software development and GitHub collaboration
+
+🤝 Let's Collaborate
+I'm interested in connecting with researchers, developers, and healthcare professionals working on innovative healthcare technologies.
